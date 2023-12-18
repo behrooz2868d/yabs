@@ -3,6 +3,7 @@ Presenting an attempt to create _yet another_ Linux server *bench*marking _scrip
 
 ![](https://user-images.githubusercontent.com/8313125/106475387-e1f6da00-6473-11eb-918c-c785ebeef8b9.jpg)
 Logo design by [Dian Pratama](https://github.com/dianp)
+behrooz
 
 This script automates the execution of the best benchmarking tools in the industry. Included are several tests to check the performance of critical areas of a server: disk performance with [fio](https://github.com/axboe/fio), network performance with [iperf3](https://github.com/esnet/iperf), and CPU/memory performance with [Geekbench](https://www.geekbench.com/). The script is designed to not require any external dependencies to be installed nor elevated privileges to run. If there are any features that you would like to see added, feel free to submit an issue describing your feature request or fork the project and submit a PR!
 
