@@ -1,5 +1,4 @@
 # Yet-Another-Bench-Script
-berooz
 Presenting an attempt to create _yet another_ Linux server *bench*marking _script_...
 
 ![](https://user-images.githubusercontent.com/8313125/106475387-e1f6da00-6473-11eb-918c-c785ebeef8b9.jpg)
